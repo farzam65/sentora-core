@@ -12,7 +12,7 @@
  * @link http://www.zpanelcp.com/
  * @license GPL (http://www.gnu.org/licenses/gpl.html)
  */
-$host = 'ec2-54-243-52-209.compute-1.amazonaws.com';
+$host = 'ec2-54-243-52-209.compute-1.amazonaws.com:5432';
 $dbname = 'd7k457grf6823b';
 $user = 'aymyfvrrrfbyxk';
 $pass = 'UVpwCkgcH4iC7JWnnT9J4GAECS';
