@@ -12,7 +12,7 @@
  * @link http://www.zpanelcp.com/
  * @license GPL (http://www.gnu.org/licenses/gpl.html)
  */
-$host = 'localhost';
-$dbname = 'sentora_core';
-$user = 'root';
-$pass = 'YOUR_ROOT_MYSQL_PASSWORD';
+$host = 'ec2-54-243-52-209.compute-1.amazonaws.com';
+$dbname = 'd7k457grf6823b';
+$user = 'aymyfvrrrfbyxk';
+$pass = 'UVpwCkgcH4iC7JWnnT9J4GAECS';
